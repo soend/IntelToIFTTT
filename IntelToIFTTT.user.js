@@ -2,7 +2,7 @@
 // @id             intel-to-ifttt
 // @name           intel-to-ifttt
 // @category       Misc
-// @version        0.10
+// @version        1.0
 // @namespace      intel-to-ifttt
 // @updateURL      https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
 // @downloadURL    https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
@@ -26,7 +26,6 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 //PLUGIN AUTHORS: writing a plugin outside of the IITC build environment? if so, delete these lines!!
 //(leaving them in place might break the 'About IITC' page or break update checks)
 //END PLUGIN AUTHORS NOTE
-
 
 // PLUGIN START ////////////////////////////////////////////////////////
 
