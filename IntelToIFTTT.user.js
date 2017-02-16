@@ -4,8 +4,8 @@
 // @category       Misc
 // @version        0.10
 // @namespace      intel-to-ifttt
-// @updateURL      https://enlightened.ee/dev/iitc/intel-to-ifttt.user.js
-// @downloadURL    https://enlightened.ee/dev/iitc/intel-to-ifttt.user.js
+// @updateURL      https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
+// @downloadURL    https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
 // @description    Sends field color from location to IFTTT service
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
