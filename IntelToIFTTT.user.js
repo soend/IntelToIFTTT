@@ -143,7 +143,7 @@ plugin.intelToIFTTT.sendMessage = function(team) {
 window.plugin.intelToIFTTT.onBtnClick = function(ev) {
 	if ($('#EintelToIFTTTSetPoint').hasClass("active")) {
 		map.off("click", window.plugin.intelToIFTTT.setPoint);
-        $('#EintelToIFTTTSetPoint').text("Set YeeLight point");
+        $('#EintelToIFTTTSetPoint').text("Set IFTTT point");
 		$('#EintelToIFTTTSetPoint').removeClass("active");
 	} else {
 		console.log("inactive");
@@ -170,7 +170,7 @@ window.plugin.intelToIFTTT.setPoint = function(ev) {
     window.plugin.intelToIFTTT.drawCircle(ev.latlng);
     localStorage.setItem("intelToIFTTT.CHECK_POINT", JSON.stringify(ev.latlng));
     plugin.intelToIFTTT.CHECK_POINT = ev.latlng;
-    $('#EintelToIFTTTSetPoint').text("Set YeeLight point");
+    $('#EintelToIFTTTSetPoint').text("Set IFTTT point");
     $('#EintelToIFTTTSetPoint').removeClass("active");
     map.off("click", window.plugin.intelToIFTTT.setPoint);
     plugin.intelToIFTTT.checkFieldColor();
@@ -186,7 +186,7 @@ window.plugin.intelToIFTTT.setIFTTTKey = function() {
 
 var setup = function() {
 
-    $('#toolbox').append('<a id="EintelToIFTTTSetPoint" class="inactive" onclick="window.plugin.intelToIFTTT.onBtnClick()" title="Set YeeLight point">Set YeeLight point</a>');
+    $('#toolbox').append('<a id="EintelToIFTTTSetPoint" class="inactive" onclick="window.plugin.intelToIFTTT.onBtnClick()" title="Set IFTTT point">Set IFTTT point</a>');
 
     if (!plugin.intelToIFTTT.IFTTT_MAKER_SERVICE_KEY)
         window.plugin.intelToIFTTT.setIFTTTKey();
