@@ -5,7 +5,7 @@ permalink: /intel-to-yeelight-user-guide/
 source-id: 1osXs-c8TR8AxpyWOp95cvfWzZmvb_OLKRF6o6FqRj2g
 published: true
 ---
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_0.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_0.png)
 
 **Estonian ENL**
 
@@ -61,11 +61,11 @@ More support or details you can find from [Yeelight forums](http://forum.yeeligh
 
 1. Choose colour and brightness what you like and choose right up corner (favorite)
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_1.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_1.png)
 
 b) Name your scene as you prefer
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_2.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_2.png)
 
 ## Configure IFTTT
 
@@ -73,63 +73,63 @@ b) Name your scene as you prefer
 
 2. Search yeelight service
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_3.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_3.png)
 
 3.  Connect service with yeelight account that you just created.
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_4.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_4.png)
 
 4. Search service Maker
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_5.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_5.png)
 
 5. Create a trigger based we request
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_6.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_6.png)
 
 6. System will give you trigger URL note that up
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_7.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_7.png)
 
 7. Create new Applet by choosing My Applets and then New Applet
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_8.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_8.png)
 
 8. Click on + this
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_9.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_9.png)
 
 9. Search service caller Maker and choose it
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_10.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_10.png)
 
 10. Choose to create receive a web request
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_11.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_11.png)
 
 11. Use event named "ENL" if green field is over you and event “RES” if blue field is over you and Create trigger.
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_12.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_12.png)
 
 12. Choose +that
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_13.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_13.png)
 
 13. Search yeelight and choose it.
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_14.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_14.png)
 
 14. Choose action - this time i want to change colour
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_15.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_15.png)
 
 15. Choose your Yeelight Bulb name and scene that you created in app
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_16.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_16.png)
 
 16. Choose Finish to create Applet.
 
-![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_17.png)
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_17.png)
 
 17. Create similar applet for blue field. Just choose color blue and call event "RES".
 
@@ -137,13 +137,18 @@ b) Name your scene as you prefer
 
 1. Log into [IITC](https://www.ingress.com/intel) and zoom to your home area
 
-2. Install intel-to-YeeLight plugin by opening link "" ![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_18.png)
+2. Install intel-to-YeeLight plugin by opening link "" 
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_18.png)
 
-3. Refresh IITC page and enter previously noted Maker URL part![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_19.png)
+3. Refresh IITC page and enter previously noted Maker URL part
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_19.png)
 
-4. Choose from IITC rightsite menu "Set YeeLight point"![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_20.png)
+4. Choose from IITC rightsite menu "Set YeeLight point"
+![image alt text](/public/kkYH7NxZcatjt7iN7BUpZA_img_20.png)
 
-	And click on map where you want that script checks top field color	After that red dot should be available at that point	![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_21.png)
+	And click on map where you want that script checks top field color
+	After that red dot should be available at that point
+	![image alt text]({{ site.url }}/public/kkYH7NxZcatjt7iN7BUpZA_img_21.png)
 
 5. Install Periodic refresh plugin for IICT "[https://static.iitc.me/build/release/plugins/periodic-refresh.user.js](https://static.iitc.me/build/release/plugins/periodic-refresh.user.js)" to autorefresh page.
 
