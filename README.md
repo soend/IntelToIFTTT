@@ -130,7 +130,7 @@ b) Name your scene as you prefer
 
 1. Log into [IITC](https://www.ingress.com/intel) and zoom to your home area
 
-2. Install intel-to-YeeLight plugin by opening link "[https://enlightened.ee/dev/iitc/intel-to-YeeLight.user.js](https://enlightened.ee/dev/iitc/intel-to-YeeLight.user.js)" ![image alt text](image_18.png)
+2. Install intel-to-YeeLight plugin by opening link ![image alt text](image_18.png)
 
 3. Refresh IITC page and enter previously noted Maker URL part![image alt text](image_19.png)
 
