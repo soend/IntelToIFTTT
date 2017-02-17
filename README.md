@@ -7,10 +7,12 @@ Intel to Yeelight user guide
 **16****th**** February 2017**
 
 # OVERVIEW
+==========
 
 Intel to Yeelight is solution where smartlight iot device can be controlled by Ingress location field color. Aim is to change smart bulb color based of field that is over it in ingress.
 
 # REQUIREMENTS
+==============
 
 1. Ingress account
 
@@ -23,14 +25,18 @@ Intel to Yeelight is solution where smartlight iot device can be controlled by I
 5. Smart bulb that has [IFTTT support](https://ifttt.com/search/services) in this this guideline we describe in detail how to set up with [Yeelight](https://www.yeelight.com/) smart bulb.
 
 # DESCRIPTION
+=============
 
 System is working with local network where Yeelight smart bulb is authenticated against Xiaomi internet services. IFTTT is connected with Xiaomi account. And IITC is connected with api to IFTTT.
 
 When in IITC map is loaded then userscript is checking biggest field at defined location and saves that ID to system. When ID is different than  previous save then opens new tab with weblink that triggers IFTTT service. Based on that trigger bulb is turned on user defined colour or state.
 
-# Table of Contents
+Table of contents
+=================
 
-[[TOC]]
+  * [Overview](#overview)
+  * [Requirements](#requirements)
+  * [Description](#description)
 
 # How To Guide
 
