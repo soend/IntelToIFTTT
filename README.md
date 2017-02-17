@@ -2,7 +2,7 @@
 
 **Estonian ENL**
 
-# Intel to Yeelight user guide
+# Intel to IFTTT user guide
 **16th February 2017**
 
 ## OVERVIEW
@@ -139,7 +139,7 @@ And if you want to change colour when no field then create similar applet and ca
 
 1. Log into [IITC](https://www.ingress.com/intel) and zoom to your home area
 
-2. Install intel-to-YeeLight plugin by opening link "[https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js](https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js)" 
+2. Install intel-to-IFTTT plugin by opening link "[https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js](https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js)" 
 ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
 3. Refresh IITC page and enter previously noted Maker URL part
