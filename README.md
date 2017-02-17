@@ -2,7 +2,7 @@
 
 **Estonian ENL**
 
-# Intel to IFTTT user guide
+# Intel to Yeelight user guide
 **16th February 2017**
 
 ## OVERVIEW
