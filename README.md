@@ -2,12 +2,12 @@
 
 **Estonian ENL**
 
-# Intel to Yeelight user guide
+# Intel to IFTTT user guide
 **16th February 2017**
 
 ## OVERVIEW
 
-Intel to Yeelight is solution where smartlight iot device can be controlled by Ingress location field color. Aim is to change smart bulb color based of field that is over it in ingress.
+Intel to IFTTT is solution where smartlight iot device can be controlled by Ingress location field color. Aim is to change smart bulb color based of field that is over it in ingress.
 
 ## REQUIREMENTS
 
