@@ -41,13 +41,13 @@ When in IITC map is loaded then userscript is checking biggest field at defined 
 
 ## How To Guide
 
-## Get Yeelight IOT bulb
+### Get Yeelight IOT bulb
 
 [Yeelight](https://www.yeelight.com/) is available on online shopping. Depending on intended application you can choose any bulb that is supported by IFTTT.
 
 This guideline is using [Yeelight LED Bulb (Color)](https://www.yeelight.com/en_US/product/wifi-led-c) that cost approximately 20€ and can be ordered for example from [ebay](http://www.ebay.co.uk/itm/Xiaomi-Yeelight-220V-9W-E27-LED-Wireless-WIFI-Control-Smart-Color-Light-Bulb-/182268890449).
 
-## Install Yeelight app
+### Install Yeelight app
 
 1. Download Yeelight Android test app [here](http://42.96.138.58/app/android/standalone/yeelight.apk) or update your iOS Yeelight app to the latest version.
 
@@ -67,7 +67,7 @@ b) Name your scene as you prefer
 
 ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
-## Configure IFTTT
+### Configure IFTTT
 
 1. Create account to [IFTTT](https://ifttt.com/)
 
@@ -135,7 +135,7 @@ b) Name your scene as you prefer
 
 And if you want to change colour when no field then create similar applet and call event "NEU".
 
-## Configure IITC
+### Configure IITC
 
 1. Log into [IITC](https://www.ingress.com/intel) and zoom to your home area
 
