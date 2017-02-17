@@ -4,7 +4,7 @@
 
 Intel to Yeelight user guide
 
-**16****th**** February 2017**
+**16th February 2017**
 
 # OVERVIEW
 
@@ -149,9 +149,9 @@ And if you want to change colour when no field then create similar applet and ca
 4. Choose from IITC rightsite menu "Set IFTTT point"
 ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
-	And click on map where you want that script checks top field color
-	After that red dot should be available at that point
-	![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+  And click on map where you want that script checks top field color
+  After that red dot should be available at that point
+  ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 5. Install Periodic refresh plugin for IICT "[https://static.iitc.me/build/release/plugins/periodic-refresh.user.js](https://static.iitc.me/build/release/plugins/periodic-refresh.user.js)" to autorefresh page.
 
