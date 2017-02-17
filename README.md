@@ -1,11 +1,4 @@
----
-title: Intel to IFTTT user guide
-layout: post
-permalink: /intel-to-ifttt-readme/
-source-id: 1osXs-c8TR8AxpyWOp95cvfWzZmvb_OLKRF6o6FqRj2g
-published: true
----
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
+![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
 **Estonian ENL**
 
@@ -61,11 +54,11 @@ More support or details you can find from [Yeelight forums](http://forum.yeeligh
 
 1. Choose colour and brightness what you like and choose right up corner (favorite)
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
+![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 b) Name your scene as you prefer
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
+![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
 ## Configure IFTTT
 
@@ -73,7 +66,7 @@ b) Name your scene as you prefer
 
 2. Search yeelight service
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
+![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
 
 3.  Connect service with yeelight account that you just created.
 
@@ -139,13 +132,18 @@ And if you want to change colour when no field then create similar applet and ca
 
 1. Log into [IITC](https://www.ingress.com/intel) and zoom to your home area
 
-2. Install intel-to-YeeLight plugin by opening link "[https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js](https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js)" ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+2. Install intel-to-YeeLight plugin by opening link "[https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js](https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js)" 
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
-3. Refresh IITC page and enter previously noted Maker URL part![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+3. Refresh IITC page and enter previously noted Maker URL part
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-4. Choose from IITC rightsite menu "Set IFTTT point"![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+4. Choose from IITC rightsite menu "Set IFTTT point"
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
-	And click on map where you want that script checks top field color	After that red dot should be available at that point	![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+	And click on map where you want that script checks top field color
+	After that red dot should be available at that point
+	![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 5. Install Periodic refresh plugin for IICT "[https://static.iitc.me/build/release/plugins/periodic-refresh.user.js](https://static.iitc.me/build/release/plugins/periodic-refresh.user.js)" to autorefresh page.
 
