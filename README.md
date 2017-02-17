@@ -2,7 +2,7 @@
 
 **Estonian ENL**
 
-#Intel to Yeelight user guide
+# Intel to Yeelight user guide
 **16th February 2017**
 
 ## OVERVIEW
