@@ -7,14 +7,14 @@
 // @updateURL      https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
 // @downloadURL    https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
 // @description    Sends field color from location to IFTTT service
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @include        https://intel.ingress.com/*
+// @include        http://intel.ingress.com/*
+// @match          https://intel.ingress.com/*
+// @match          http://intel.ingress.com/*
+// @include        https://mission.ingress.com/*
+// @include        http://mission.ingress.com/*
+// @match          https://mission.ingress.com/*
+// @match          http://mission.ingress.com/*
 // @grant          none
 // ==/UserScript==
 
