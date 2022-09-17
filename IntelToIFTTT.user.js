@@ -2,7 +2,7 @@
 // @id             intel-to-ifttt
 // @name           intel-to-ifttt
 // @category       Misc
-// @version        1.0
+// @version        1.1
 // @namespace      intel-to-ifttt
 // @updateURL      https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
 // @downloadURL    https://github.com/soend/IntelToIFTTT/raw/master/IntelToIFTTT.user.js
